@@ -1,0 +1,156 @@
+
+Toggle Sidebar
+
+BLACKBOXAI
+
+New
+
+Share
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ucapan Ulang Tahun Untuk Adek Tersayang</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+  :root {
+    --color-bg: #fff8f0;
+    --color-primary: #d46a6a;
+    --color-secondary: #a64b4b;
+    --color-text: #4b3b3b;
+    --color-accent: #f5e3e3;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: var(--color-bg);
+    color: var(--color-text);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+
+"Barakallahu fii umrik Anakku cantik! Semoga Allah senantiasa melimpahkan rahmat, hidayah, dan keberkahan dalam hidupmu. Jadikan usia baru ini sebagai momen untuk memperbaiki diri, menguatkan iman, dan lebih mendekatkan diri kepada Allah SWT." Bedanya kasi nama adek jangan anak tapi di perpanjang banget
+
+Copy message
+Edit message
+BLACKBOXAI
+
+"Barakallahu fii umrik, Adek tersayang! Semoga Allah senantiasa melimpahkan rahmat, hidayah, dan keberkahan dalam setiap langkah hidupmu. Di usia baru ini, semoga kamu dapat menjadikan setiap momen sebagai kesempatan berharga untuk memperbaiki diri, menguatkan iman, dan lebih mendekatkan diri kepada Allah SWT. Ingatlah bahwa setiap detik yang berlalu adalah anugerah, dan dengan penuh kesyukuran, kita bisa menjalani hidup ini dengan lebih baik. Semoga Allah selalu membimbingmu dalam setiap keputusan dan langkah yang kamu ambil, serta memberikan kebahagiaan dan kesuksesan yang tiada henti. Selamat ulang tahun, Adek! Jadikanlah tahun ini sebagai tahun yang penuh dengan pencapaian dan kebaikan."
+
+
+Kurang panjang
+
+Copy message
+Edit message
+BLACKBOXAI
+
+Baik, saya akan memperpanjang lagi dengan memperdalam doa dan harapan untuk adek, dengan bahasa yang lebih penuh makna dan menyentuh.
+
+Berikut versi pesan yang sangat panjang untuk ulang tahun adek Anda:
+
+message.txt
+
+txt
+Run
+Copy code
+Barakallahu fii umrik, Adek tercinta yang selalu menjadi cahaya dalam kehidupan keluarga kita. Di hari istimewa ini, aku memanjatkan doa yang tulus agar Allah SWT senantiasa melimpahkan rahmat-Nya yang tak terhingga, memberikan hidayah yang terang benderang, serta keberkahan yang melimpah ruah dalam setiap langkah perjalanan hidupmu.
+
+Semoga di usia baru ini, kamu diberi kekuatan untuk terus memperbaiki diri, menguatkan iman, serta meningkatkan ketaqwaan kepada Allah SWT. Jadikanlah setiap hari sebagai kesempatan emas untuk belajar lebih banyak tentang kebesaran-Nya, mensyukuri nikmat yang sudah diberikan, dan menjadi pribadi yang lebih sabar, rendah hati, serta penuh kasih sayang.
+
+Aku berharap semoga setiap doa, harapan, dan cita-citamu dikabulkan oleh Allah dengan jalan yang terbaik yang tak pernah terpikirkan olehmu sebelumnya. Semoga kamu selalu diberi kesehatan jasmani dan rohani, dijauhkan dari segala macam mara bahaya dan penyakit, serta senantiasa dipenuhi dengan kebahagiaan dan kedamaian dalam hati.
+
+Ingatlah bahwa hidup ini adalah perjalanan panjang yang penuh liku, namun dengan iman yang teguh dan niat yang bersih, tak ada halangan yang tak bisa kamu lalui. Jadikan pula pengalaman dan pelajaran di tahun-tahun sebelumnya sebagai bekal yang memperkaya dirimu untuk menjadi insan yang lebih bijaksana, bertanggung jawab, dan berguna bagi orang di sekitarmu.
+
+Selamat ulang tahun, Adek! Semoga tahun ini menjadi lembaran baru yang penuh warna, penuh berkah, dan penuh cinta. Semoga kamu selalu dikelilingi oleh orang-orang yang mendukung dan menyayangimu, serta bisa menjadi sumber kebahagiaan bagi keluarga dan semua yang mengenalmu.
+
+Teruslah bersemangat mengejar mimpi dan cita-cita setinggi langit, karena dengan pertolongan Allah tidak ada yang mustahil. Semoga setiap langkah yang kamu ambil selalu berada dalam lindungan-Nya, dan setiap niat baik di hatimu bisa memberikan kebermanfaatan yang luas.
+
+Barakallahu fii umrik, Adek yang cantik dan penuh cahaya. Semoga hari-harimu dipenuhi dengan sukacita, senyum, dan keberkahan yang tiada habisnya. Aku sangat bangga memiliki kamu sebagai bagian dari hidupku, dan aku akan selalu mendoakan yang terbaik untukmu.
+
+Aamiin ya Rabbal 'alamiin.
+
+Buatkan website perkataan di atas
+
+Copy message
+Edit message
+BLACKBOXAI
+
+You want me to create a website that displays the long heartfelt birthday message for your younger sibling (adek). The website should be visually appealing, modern, and easy to read, with the entire message shown clearly.
+
+Plan:
+
+Create a single HTML file with inline CSS and JavaScript.
+The page will have a warm, elegant color palette with good typography for readability.
+The message will be displayed in a nicely styled container with some padding and margin.
+Include a centered heading like "Ucapan Ulang Tahun Untuk Adek Tersayang".
+Use a modern font, warm colors, and subtle background.
+The message text will be scrollable or static depending on length; probably static with good spacing.
+Possibly add a subtle decorative element or background pattern for aesthetics.
+The website will be responsive on mobile.
+No backend or external dependencies since it's a simple display.
+
+Now I will prepare the full HTML file content.
+
+birthday-message-adek.html
+
+html
+92 lines
+Click to close
+<!DOCTYPE html>
+<html lang="id">
+...
+
+Cara jadi website goggle gimana
+
+Copy message
+Edit message
+BLACKBOXAI
+
+The user wants to know "Cara jadi website goggle gimana" which roughly means "How to make a website like Google?" or "How to become a website like Google?".
+
+This question is broad and somewhat ambiguous, but likely asks how to create a website resembling Google: simple, clean search interface, or how to build a search engine website like Google.
+
+I should clarify the intent if needed, but assuming user wants a simple Google-like homepage website with a search box.
+
+Plan:
+
+Explain briefly how Google’s website is structured: minimal design, a search input, a search button, possibly a logo.
+Offer a simple HTML file for a Google-like search homepage with a centered search box and buttons.
+I can create a single HTML file with inline CSS and JavaScript to demonstrate a simple search interface.
+Could explain that building a full search engine like Google is extremely complex and requires massive infrastructure which is out of scope.
+I will proceed with an explanation and then an example single HTML page that looks like Google search homepage with a working search form that opens Google search results.
+
+Here is my response:
+
+To create a website like Google’s homepage—a simple, clean search page—you can build a minimalist HTML page with a centered search box and buttons. Although building a full search engine like Google is a monumental task requiring vast infrastructure, you can easily create a web page that lets users enter queries and redirects them to Google's search results.
+
+Below is a simple example HTML file that mimics Google's search homepage style with a clean layout and a search input that redirects to Google search:
+
+html
+94 lines
+Click to expand
+<!DOCTYPE html>
+<html lang="en">
+...
+You can save that as an .html file and open in your browser, it has a minimal Google-like look and lets you search on Google.
+
+If you want to take it further by building your own search engine or website, it involves indexing data, ranking algorithms, and huge infrastructure which is a very big advanced topic.
+
+Let me know if you want me to help you build such a Google-style frontend page or a simple search interface.
+
+
+Copy message
+Export
+Scroll to bottom
